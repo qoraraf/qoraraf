@@ -2,11 +2,11 @@
 
 👀 I’m interested in Data Science
 
-🌱 I’m currently learning Programming fpr data science with python
+🌱 I’m currently learning Programming for data science with python
 
 💞️ I’m looking to collaborate on beginner projects in data science and machine learning
 
-📫 Reach me at: qoraraf@gmail.com
+📫 Reach me at: fatsammar@gmail.com
 
 
 <!---
