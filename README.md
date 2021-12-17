@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Science
 
-🌱 I’m currently learning Programming for data science with python
+🌱 I've completed "Programming for data science with python" nanodegree at udacity-Misk. Right now very busy with "AI data engineering" master program at Simplilearn with SDA and with "Data Scientist" nanodegree with Udacity-Misk-Sdaia
 
 💞️ I’m looking to collaborate on beginner projects in data science and machine learning
 
