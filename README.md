@@ -1,9 +1,6 @@
 👋 Hi, I’m @qoraraf
 
-👀 I’m interested in Data Science
-
-🌱 I've completed "Programming for data science with python" nanodegree at udacity-Misk. Also finished "Data Scientist" nanodegree with Udacity-Misk-Sdaia.
-Right now very busy with "AI data engineering" master program at Simplilearn with SDA-MCIT
+👀 I’m interested in Data Science & AI engineering
 
 💞️ I’m looking to collaborate on beginners projects in data science and machine learning
 
