@@ -1,13 +1,5 @@
-👋 Hi, I’m @qoraraf
+👋 Hi, I’m Fatimah Sammar, a life long learner!
 
-👀 I’m interested in Data Science & AI engineering
+After long years in IT and digital transformation I'm now trying to find my way towards AI/Data science in Astronomy
 
-💞️ I’m looking to collaborate on beginners projects in data science and machine learning
-
-📫 Reach me at: fatsammar@gmail.com
-
-
-<!---
-qoraraf/qoraraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: fatsammar@gmail.com if you want to join me in my journey
